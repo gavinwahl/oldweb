@@ -1,0 +1,12 @@
+# Positive
+- Complex link structures, not simply flat or hierarchical. Ubiquitous
+  inter-sentence hyperlinks.
+- Extraordinary depth of content in single topic, or extraordinary breadth of
+  topics that don't seem to be related beyond being the hobbies of the author.
+  Esoteric content is particularly valuable.
+- Single author who is a personal enthusiast of the topics they discuss.
+- Non commercial
+
+# Negative
+- Deprioritizing old content (most blog-style architectures). Old web content
+  does not get less interesting with age.
